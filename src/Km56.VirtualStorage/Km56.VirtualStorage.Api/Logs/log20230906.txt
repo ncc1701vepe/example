@@ -1,0 +1,26 @@
+2023-09-06 19:08:30.338 -07:00 [INF] Now listening on: https://localhost:7200
+2023-09-06 19:08:30.427 -07:00 [INF] Now listening on: http://localhost:5227
+2023-09-06 19:08:30.439 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 19:08:30.440 -07:00 [INF] Hosting environment: Development
+2023-09-06 19:08:30.441 -07:00 [INF] Content root path: C:\GitHub\examples\src\Km56.VirtualStorage\Km56.VirtualStorage.Api\
+2023-09-06 19:08:31.323 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/index.html - -
+2023-09-06 19:08:32.115 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/index.html - - - 200 - text/html;charset=utf-8 809.6364ms
+2023-09-06 19:08:33.035 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-09-06 19:08:33.036 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-09-06 19:08:33.046 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12378 application/javascript;+charset=utf-8 10.6553ms
+2023-09-06 19:08:33.098 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.9373ms
+2023-09-06 19:08:33.308 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-09-06 19:08:33.460 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 151.9499ms
+2023-09-06 19:10:35.178 -07:00 [INF] Now listening on: https://localhost:7200
+2023-09-06 19:10:35.236 -07:00 [INF] Now listening on: http://localhost:5227
+2023-09-06 19:10:35.245 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 19:10:35.247 -07:00 [INF] Hosting environment: Development
+2023-09-06 19:10:35.251 -07:00 [INF] Content root path: C:\GitHub\examples\src\Km56.VirtualStorage\Km56.VirtualStorage.Api\
+2023-09-06 19:10:35.900 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/index.html - -
+2023-09-06 19:10:36.599 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/index.html - - - 200 - text/html;charset=utf-8 705.9446ms
+2023-09-06 19:10:37.389 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-09-06 19:10:37.389 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-09-06 19:10:37.404 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12378 application/javascript;+charset=utf-8 15.0152ms
+2023-09-06 19:10:37.436 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.4038ms
+2023-09-06 19:10:37.562 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-09-06 19:10:37.747 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 185.8393ms
